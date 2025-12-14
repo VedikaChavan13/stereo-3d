@@ -1,0 +1,87 @@
+# ---------------------------
+# OS / System files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Python
+# ---------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ---------------------------
+# Logs / outputs / cache
+# ---------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.out
+
+# ---------------------------
+# Data / large artifacts (edit to match your project)
+# ---------------------------
+data/
+datasets/
+downloads/
+*.zip
+*.tar.gz
+*.7z
+
+# If you have generated outputs (keep if needed)
+outputs/
+runs/
+results/
+
+# ---------------------------
+# LaTeX (build artifacts)
+# ---------------------------
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+
+# If you use latexmk
+.latexmkrc
+
+# ---------------------------
+# Editors / IDEs
+# ---------------------------
+.vscode/
+.idea/
+*.iml
+
+# ---------------------------
+# Secrets (VERY IMPORTANT)
+# ---------------------------
+.env
+*.key
+*.pem
+secrets/
