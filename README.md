@@ -116,11 +116,11 @@ The system is intended as a **research prototype**, not a production-ready perce
 
 ---
 
-## **Author**
+## Author
 
-**Vedika Chavan**
-Master of Science in Computer Science
-Department of Computer Science
-Binghamton University, State University of New York
+- **Vedika Chavan**
+- Master of Science in Computer Science
+- Department of Computer Science
+- Binghamton University, State University of New York
 
 
